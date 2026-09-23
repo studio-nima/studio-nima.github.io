@@ -29,6 +29,8 @@ window.NIMA = {
   // repos que nunca se muestran (el propio portafolio, pruebas…)
   exclude: ['studio-nima.github.io', 'nima-studio', 'portfolio'],
   contact: 'contact@nima-mx.com',
+  // número con lada (ej. '524421234567') → los botones de /sitios/ abren WhatsApp
+  whatsapp: '',
 };
 
 window.SITES = [
